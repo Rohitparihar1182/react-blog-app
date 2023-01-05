@@ -6,4 +6,4 @@ To run the app first running the db is required
 
 Run command for the database - npx json-server -p 3500 -w data/db.json
 
-To run the app you can simply go with - npm start 
+To run the app simply run - npm start 
